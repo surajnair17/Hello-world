@@ -1,0 +1,12 @@
+in this assignment we are learning to use Github.
+GitHub is a web-based platform for version control and collaboration in 
+software development. It hosts Git repositories, 
+enabling developers to manage code changes, coordinate teamwork, 
+track issues, and automate testing and deployment. With millions of users, 
+it fosters social coding and supports open source projects.
+
+
+
+
+
+
